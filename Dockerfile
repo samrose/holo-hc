@@ -9,7 +9,6 @@ RUN apt-get update && apt-get install --yes\
   cmake\
   zlib1g-dev \
   curl \
-  qt5-default \
   python2.7 \
   gosu \
   git \
